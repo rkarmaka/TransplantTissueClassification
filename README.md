@@ -1,1 +1,1 @@
-# TransplantTissueClassification
+# Transplant Tissue - Classification
