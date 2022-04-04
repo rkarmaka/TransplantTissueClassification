@@ -17,4 +17,3 @@ dependencies:
   - opencv-python=4.5.5
   - pip:
 		- https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-2.8.0-cp39-cp39-manylinux2010_x86_64.whl
-		- https://www.piwheels.org/simple/opencv-python/opencv_python-4.5.5.64-cp39-cp39-linux_armv7l.whl#sha256=97171d0e20d58d0c1dc7fa85c3bba9527bd9541d7e28ac949acc0cdf2cdd5bc8
